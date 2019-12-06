@@ -29,7 +29,9 @@ projects:
     # - repo-name
 
 social media:
-  # instagram: reja_khan_
+  - name: Instagram
+    web_url: https://www.instagram.com/reja_khan_
+    image_url: https://upload.wikimedia.org/wikipedia/commons/3/30/The_Instagram_Logo.jpg
 
 topics:
   - name: GitHub
