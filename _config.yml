@@ -28,16 +28,18 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social media:
   # instagram: reja_khan_
 
 topics:
-  - name: CSS
+  - name: GitHub
     web_url: https://github.com/topics/css
-    image_url: https://avatars0.githubusercontent.com/u/56319041?s=96&v=4
-
-  - name: Web design
-
-  - name: Reja
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+    
+  - name: TechOlympics
+    web_url: https://techolympics.org/
+    image_url: https://techolympics.org/wp-content/uploads/2019/10/activate-3.png
+    
+  - name: CincyHacks
+    web_url: https://cincyhacks.com/
+    image_url: https://cincyhacks.com/assets/logo.png
