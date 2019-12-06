@@ -43,3 +43,5 @@ topics:
   - name: CincyHacks
     web_url: https://cincyhacks.com/
     image_url: https://cincyhacks.com/assets/logo.png
+
+theme: jekyll-theme-minimal
